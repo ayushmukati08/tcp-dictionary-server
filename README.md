@@ -67,7 +67,7 @@ This project is suitable as an **academic level networking + NLP foundation proj
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone <repository-url>
 cd <repository-folder>
 ```
 
