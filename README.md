@@ -135,8 +135,8 @@ These limitations are intentional to keep the project focused and understandable
 
 ## Author
 **Ayush Mukati**  
-**MCA (Master of Computer Applications)**
-**National Institute of Technology Patna**
+MCA (Master of Computer Applications)  
+National Institute of Technology Patna
 ---
 
 ## License
